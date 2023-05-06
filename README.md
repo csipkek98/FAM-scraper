@@ -42,6 +42,6 @@ There is only two different endpoints currently for two different news sites, bu
 
 As I said before, we get the corresponding news site dictionary data and parse it into JSON
 
-## Conclusion
+## Afterthought
 
 At present, this part of the project is contained within a single .py file. However, in the future I want to separate the page-specific scraping functions into different files in the future, and to transform the current .py file into a file that consolidates these separate files.
